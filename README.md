@@ -13,5 +13,7 @@ Once the script is run using python3 (required libraries need to be installed on
 at the Mookit login page and you are automatially logged in(if details are correct ofcourse) and you are redirected towards that course home page where the scrapping is done and chrome window closes. Now the output csv file (coursename_n.csv) is created in same directory where script file in present. And you have your lectures now :)
 \
 \
-I have included esc201a_10.csv in this repo for demostrating how the output file looks like.
+Python script file is [t5.py](github.com/harshit-bansal18/mookit-scrapper/blob/main/t5.py).
+\
+I have included [esc201a_10.csv](github.com/harshit-bansal18/mookit-scrapper/blob/main/esc201a_10.csv) in this repo for demostrating how the output file looks like.
 
